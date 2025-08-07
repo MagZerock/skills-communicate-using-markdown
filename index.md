@@ -39,3 +39,12 @@ Aqui se agrega una imagen divertida
 ```python
 print("Hola, mundo")
 ```
+- [x] Configurar repositorio en GitHub  
+- [x] Crear archivo README.md  
+- [ ] Agregar código inicial en Python  
+- [ ] Realizar primer commit  
+- [x] Abrir pull request  
+- [ ] Revisar comentarios y hacer ajustes  
+- [ ] Fusionar pull request a main  
+- [ ] Publicar proyecto en GitHub Pages  
+
