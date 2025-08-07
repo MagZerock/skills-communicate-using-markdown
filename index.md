@@ -33,3 +33,9 @@ Un encabezado es un texto más grande al inicio de una sección. Hay seis tamañ
 Aqui se agrega una imagen divertida
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Ejemplo de código en Python
+
+```python
+print("Hola, mundo")
+```
