@@ -28,3 +28,8 @@ Un encabezado es un texto más grande al inicio de una sección. Hay seis tamañ
 ## Esto es un encabezado `<h2>`
 
 ###### Esto es un encabezado `<h6>`, que es el más pequeño
+```
+
+Aqui se agrega una imagen divertida
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
